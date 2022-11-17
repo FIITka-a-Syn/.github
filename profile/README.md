@@ -1,9 +1,8 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, We're FIIT&SON</h1>
 <h3 align="center">A passionate organisation of students studying at Faculty of Informatics and Information Technologies STU in Bratislava</h3>
-<img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
-<p align="left"> <img src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif" alt="samna" /> </p>
+
+<p align="center"> <img src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif" alt="samna" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samna" alt="samna" /></a> </p>
 
